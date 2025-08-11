@@ -1,0 +1,8 @@
+1. Download Graphviz
+	a. Go to graphviz.org/download/
+	b. For windows, choose graphviz-12.2.1 (64 bit) EXE installer 		[sha256]
+	c. In the Graphviz setup, select “next”, “I agree” and “Add 	Graphviz to the system PATH for all users” .
+	d. Choose the install location and start menu folder. 
+2. Unzip the file
+3. Ensure that the computer consists of the requirements as stated in requirements.txt OR run pip install -r requirements.txt
+4. Run project.py file
